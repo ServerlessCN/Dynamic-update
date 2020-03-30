@@ -7,7 +7,7 @@ date: 2020-01-09
 thumbnail: 
   
 categories:
-  - demand-collect（需求征集）
+  - demand-collect
 useLink  : 
  
 md: test07

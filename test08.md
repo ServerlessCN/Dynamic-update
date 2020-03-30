@@ -15,7 +15,7 @@ categories:
 useLink  : 
   https://github.com/serverless/roadmap-tencent/issues/325 
   
-md: test04
+md: test08
 ---
 ## **Serverless Framework Component 支持 灰度发布/流量切换**
 

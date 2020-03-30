@@ -8,7 +8,7 @@ date: 2020-01-12
 thumbnail: 
   https://img.serverlesscloud.cn/2020327/1585301778751-1577362754931-egg.png   
 categories:
-  - demand-collect（需求征集） 
+  - demand-collect
 useLink  : 
   https://github.com/serverless/roadmap-tencent/issues/255
   https://github.com/serverless/roadmap-tencent/issues/278
