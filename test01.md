@@ -6,7 +6,7 @@ date: 2020-01-09
 thumbnail: 
   https://img.serverlesscloud.cn/2020327/1585301778751-1577362754931-egg.png   
 categories:
-  - banner-content（banner 展示）  
+  - banner-content
 useLink  : 
   https://github.com/serverless/roadmap-tencent/issues/325 
 md: test01
