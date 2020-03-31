@@ -1,14 +1,12 @@
 ---
 title: Serverless Framework Component 支持 灰度发布/流量切换
-description: 通过在 serverless.yml 中支持流量切换的配置项，支持客户方便的使用灰度发布能力。
-允许客户配置完成后，流量在两个版本之间进行按比例的分发，从而实现灰度发布的能力和回滚的能力。
+description: “通过在 serverless.yml 中支持流量切换的配置项，支持客户方便的使用灰度发布能力。
+允许客户配置完成后，流量在两个版本之间进行按比例的分发，从而实现灰度发布的能力和回滚的能力。”
 date: 2020-01-09
-thumbnail: 
-  https://img.serverlesscloud.cn/2020327/1585315627854-3.png  
+thumbnail: https://img.serverlesscloud.cn/2020327/1585315627854-3.png  
 categories:
   - banner-content
-useLink  : 
- 
+useLink: 
 md: test05
 ---
 ## **Serverless Framework Component 支持 灰度发布/流量切换**
@@ -26,8 +24,6 @@ md: test05
 允许客户配置完成后，流量在两个版本之间进行按比例的分发，从而实现灰度发布的能力和回滚的能力。
 
 
-### 问题反馈：
 
-![问题反馈](https://img.serverlesscloud.cn/2020327/1585301778751-1577362754931-egg.png )
 
 

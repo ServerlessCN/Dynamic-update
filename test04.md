@@ -46,8 +46,6 @@ md: test04
 ### **产品文档**：
 https://github.com/serverless/roadmap-tencent/issues/325
 
-### 问题反馈：
 
-![问题反馈](https://img.serverlesscloud.cn/2020327/1585301778751-1577362754931-egg.png )
 
 
