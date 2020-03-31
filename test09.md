@@ -1,16 +1,17 @@
 ---
 title: Serverless Framework Component 发布
-description: “针对当前 Serverless Component 版本的优化和大版本迭代
+description: "针对当前 Serverless Component 版本的优化和大版本迭代
 客户当前遇到的问题：
 1. 下载 cli 后，快速入门复杂，上手门槛高
 2. 当前需要按照 serverless.yml的配置，在部署阶段从 npm 下载对应的 component 进行部署，影响部署效率
 3. 当前的部署状态存储在本地，客户换环境或者多人协作时，状态无法保存和迁移
-4. 当前的组件无法支持云端调试、日志实时输出等能力，影响开发效率
+4. 当前的组件无法支持云端调试、日志实时输出等能力，影响开发效率"
 date: 2020-03-27
 thumbnail: https://img.serverlesscloud.cn/2020327/1585319177295-component-framework.png
- categories:
+categories:
   - banner-content
-useLink: https://github.com/serverless/roadmap-tencent/issues/325 
+useLink: 
+  - https://github.com/serverless/roadmap-tencent/issues/325 
 md: test09
 ---
 ## **Serverless Framework Component 支持 灰度发布/流量切换**
