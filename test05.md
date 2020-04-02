@@ -6,6 +6,7 @@ date: 2020-01-09
 thumbnail: https://img.serverlesscloud.cn/2020327/1585315627854-3.png  
 categories:
   - banner-content
+  - product-forecast
 useLink: 
 md: test05
 ---

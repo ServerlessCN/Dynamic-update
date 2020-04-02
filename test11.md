@@ -1,6 +1,7 @@
 ---
 title: 流量切换下线
 description: 去除默认策略的配置，便于客户更好的管理自己配置的cos的策略
+keywords: serverless发展,Serverless 基本概念,Serverless生产力
 date: 2020-03-25
 thumbnail: 
 categories:

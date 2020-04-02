@@ -5,7 +5,7 @@ keywords: serverless发展,Serverless 基本概念,Serverless生产力
 date: 2020-01-09
 thumbnail:  
 categories:
-  - change-offline
+  - product-forecast
 useLink: 
 md: test06
 ---

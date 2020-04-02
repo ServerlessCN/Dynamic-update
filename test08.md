@@ -6,10 +6,12 @@ description: "针对当前 Serverless Component 版本的优化和大版本迭�
 2. 当前需要按照 serverless.yml的配置，在部署阶段从 npm 下载对应的 component 进行部署，影响部署效率
 3. 当前的部署状态存储在本地，客户换环境或者多人协作时，状态无法保存和迁移
 4. 当前的组件无法支持云端调试、日志实时输出等能力，影响开发效率"
+keywords: serverless发展,Serverless 基本概念,Serverless生产力
 date: 2019-03-09
 thumbnail: https://img.serverlesscloud.cn/2020327/1585317553563-1578569597879-website.png  
 categories:
   - banner-content 
+  - change-offline
 useLink: 
   - https://github.com/serverless/roadmap-tencent/issues/325 
 md: test08

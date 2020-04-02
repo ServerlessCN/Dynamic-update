@@ -6,8 +6,7 @@ keywords: serverless发展,Serverless 基本概念,Serverless生产力
 date: 2020-01-09
 thumbnail: https://img.serverlesscloud.cn/2020327/1585301778751-1577362754931-egg.png  
 categories:
-  - banner-content
-  - demand-collect
+  - product-forecast
 useLink: 
   - https://github.com/serverless/roadmap-tencent/issues/325 
 md: test01

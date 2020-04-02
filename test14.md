@@ -1,5 +1,5 @@
 ---
-title: Serverless Framework Component 发布
+title: Serverless Framework 
 description: "针对当前 Serverless Component 版本的优化和大版本迭代
 客户当前遇到的问题：
 1. 下载 cli 后，快速入门复杂，上手门槛高

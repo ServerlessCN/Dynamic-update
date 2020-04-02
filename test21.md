@@ -5,7 +5,7 @@ keywords: serverless发展,Serverless 基本概念,Serverless生产力
 date: 2020-03-25
 thumbnail: https://img.serverlesscloud.cn/2020327/1585319177295-component-framework.png
 categories:
-  - product-release
+  - product-forecast
 useLink: 
   - https://github.com/serverless-components/tencent-website/releases/tag/1.2.23
 md: test10
