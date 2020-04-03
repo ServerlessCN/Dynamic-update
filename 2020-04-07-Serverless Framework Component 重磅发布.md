@@ -1,0 +1,44 @@
+---
+title: Serverless Framework Component 发布预告
+description: "Serverless Framework Component 支持检测中国用户，提供本土化的部署体验，如一键部署的交互式命令行，降低使用门槛；支持 component registry，将对应 component 存储在云端的 SCF layer 中，从 layer 中下载对应的组件，提升部署速度；支持 deployment engine，将 serverless 应用的部署状态存储在云端，切换环境时也无需担心本地部署状态的丢失；支持 dev mode 命令，实时检测变化进行本地、云端的代码同步，实时输出云端日志，并且支持对 Node.js 函数进行远端调试。"
+keywords: Serverless发布动态,Serverless发布,Serverless功能,Serverless特性
+date: 2020-4-7
+thumbnail: 
+categories:
+  -product-forecast 
+useLink: 
+  - 
+---
+
+### **产品背景**：
+客户当前遇到的问题：
+1. 下载 cli 后，快速入门复杂，上手门槛高。
+
+2. 当前需要按照 serverless.yml 的配置，在部署阶段从 npm 下载对应的 component 进行部署，影响部署效率。
+
+3. 当前的部署状态存储在本地，客户换环境或者多人协作时，状态无法保存和迁移。
+
+4. 当前的组件无法支持云端调试、日志实时输出等能力，影响开发效率。
+
+### **产品功能**：
+针对客户使用的问题，提供了如下优化：
+
+1. 支持检测中国用户，提供本土化的部署体验，如一键部署的交互式命令行，降低使用门槛.
+
+2. 支持 component registry，将对应 component 存储在云端的 SCF layer 中，从 layer 中下载对应的组件，提升部署速度.
+
+3. 支持 deployment engine ,将 serverless 应用的部署状态存储在云端,切换环境时也无需担心本地部署状态的丢失.
+
+4. 支持 dev mode 命令,实时检测变化进行本地、云端的代码同步,实时输出云端日志,并且支持对 Node.js 函数进行远端调试.
+
+### **预计发布时间**：
+ 
+ 2020-4-26
+
+### **产品文档**：
+
+敬请期待～
+
+
+
+
