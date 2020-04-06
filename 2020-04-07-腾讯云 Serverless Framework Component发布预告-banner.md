@@ -1,5 +1,5 @@
 ---
-title: Serverless Framework Component 发布预告
+title: 腾讯云 Serverless Framework Component 发布预告
 description: "Serverless Framework Component 支持检测中国用户，提供本土化的部署体验，如一键部署的交互式命令行，降低使用门槛；支持 component registry，将对应 component 存储在云端的 SCF layer 中，从 layer 中下载对应的组件，提升部署速度；支持 deployment engine，将 serverless 应用的部署状态存储在云端，切换环境时也无需担心本地部署状态的丢失；支持 dev mode 命令，实时检测变化进行本地、云端的代码同步，实时输出云端日志，并且支持对 Node.js 函数进行远端调试。"
 keywords: Serverless发布动态,Serverless发布,Serverless功能,Serverless特性
 date: 2020-04-07

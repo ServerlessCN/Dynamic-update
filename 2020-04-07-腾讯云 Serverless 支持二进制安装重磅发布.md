@@ -1,5 +1,5 @@
 ---
-title: Serverless 支持二进制安装权威发布
+title: 腾讯云 Serverless 支持二进制安装权威发布
 description: "北美 serverless 支持二进制安装，但由于境外站点存储安装包在国内下载速度较慢，因此我们提供国内二进制包的同步方案，方便用户进行下载。"
 keywords: serverless发展,Serverless 基本概念,Serverless生产力
 date: 20-04-05
