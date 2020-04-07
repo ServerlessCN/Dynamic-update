@@ -2,7 +2,7 @@
 title: 腾讯云 Django Serverless Component 权威发布
 description: "Django Serverless Component, 支持 Restful API 服务的部署。"
 keywords: serverless发展,Serverless 基本概念,Serverless生产力
-date: 20-02-23
+date: 2020-02-23
 thumbnail: https://img.serverlesscloud.cn/202046/1586185777186-django%20list.png
 categories:
   - product-release

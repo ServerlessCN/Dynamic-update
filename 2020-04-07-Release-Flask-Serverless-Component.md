@@ -2,7 +2,7 @@
 title: 腾讯云 Flask Serverless Component 权威发布
 description: "提供 Python Flask 开发框架的支持"
 keywords: serverless发展,Serverless 基本概念,Serverless生产力
-date: 19-12-16
+date: 2019-12-16
 thumbnail: https://img.serverlesscloud.cn/202046/1586188664684-FLASK-list.png
 categories:
   - product-release

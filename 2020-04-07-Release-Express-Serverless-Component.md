@@ -2,7 +2,7 @@
 title: 腾讯云 Express Serverless Component 权威发布
 description: "Express 组件通过使用 serverless-tencent 的基础组件如 API 网关组件，SCF 组件等，快速方便的在腾讯云创建、配置和管理一个 Express 框架。"
 keywords: Serverless发布动态,Serverless发布,Serverless功能,Serverless特性
-date: 19-10-31
+date: 2019-10-31
 thumbnail: https://img.serverlesscloud.cn/202046/1586188393273-Express-list.png
 categories:
   - product-release

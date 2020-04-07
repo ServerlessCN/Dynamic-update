@@ -2,7 +2,7 @@
 title: 腾讯云 Serverless 支持二进制安装权威发布
 description: "当前 serverless 默认支持 npm 进行下载安装，针对本地环境没有 nodejs 的用户，推出二进制安装包。降低安装门槛。"
 keywords: serverless发展,Serverless 基本概念,Serverless生产力
-date: 20-04-05
+date: 2020-04-05
 thumbnail: https://img.serverlesscloud.cn/202047/1586257805223-Layer%20Component.png
 categories:
   - product-release

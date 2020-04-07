@@ -2,7 +2,7 @@
 title: 腾讯云 Laravel Serverless Component权威发布
 description: "提供 PHP Laravel 开发框架支持"
 keywords: serverless发展,serverless 基本概念,Serverless生产力
-date: 19-12-24
+date: 2019-12-24
 thumbnail: https://img.serverlesscloud.cn/202046/1586188839492-laravellist-.png
 categories:
   - product-release
