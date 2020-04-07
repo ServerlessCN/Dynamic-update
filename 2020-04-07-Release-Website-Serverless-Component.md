@@ -6,8 +6,7 @@ date: 2019-11-01
 thumbnail: https://img.serverlesscloud.cn/202046/1586191987530-website-list.png
 categories:
   - product-release
-useLink: 
-  - https://github.com/serverless-components/tencent-website
+useLink: https://github.com/serverless-components/tencent-website
 ---
 
 ### **产品背景**：

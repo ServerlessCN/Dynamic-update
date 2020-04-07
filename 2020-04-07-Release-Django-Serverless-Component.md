@@ -6,8 +6,7 @@ date: 2020-02-23
 thumbnail: https://img.serverlesscloud.cn/202046/1586185777186-django%20list.png
 categories:
   - product-release
-useLink: 
-  - https://github.com/serverless-tencent/tencent-django
+useLink: https://github.com/serverless-tencent/tencent-django
 ---
 
 ### **产品功能**：

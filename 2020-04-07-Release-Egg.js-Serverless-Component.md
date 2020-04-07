@@ -6,8 +6,7 @@ date: 2019-02-09
 thumbnail: https://img.serverlesscloud.cn/2020327/1585301778751-1577362754931-egg.png
 categories:
   - product-release
-useLink: 
-  - https://github.com/serverless-components/tencent-egg
+useLink: https://github.com/serverless-components/tencent-egg
 ---
 
 ### **产品功能**：

@@ -6,8 +6,7 @@ date: 2020-04-05
 thumbnail: https://img.serverlesscloud.cn/202047/1586257805223-Layer%20Component.png
 categories:
   - product-release
-useLink: 
-  - https://cloud.tencent.com/document/product/1154/42990
+useLink: https://cloud.tencent.com/document/product/1154/42990
 ---
 
 ### **产品介绍**：

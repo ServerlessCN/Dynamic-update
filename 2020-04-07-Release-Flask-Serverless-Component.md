@@ -6,8 +6,7 @@ date: 2019-12-16
 thumbnail: https://img.serverlesscloud.cn/202046/1586188664684-FLASK-list.png
 categories:
   - product-release
-useLink: 
-  - https://github.com/serverless-components/tencent-flask
+useLink: https://github.com/serverless-components/tencent-flask
 ---
 
 ### **产品功能**：

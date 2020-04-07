@@ -6,8 +6,7 @@ date: 2019-10-31
 thumbnail: https://img.serverlesscloud.cn/202046/1586188393273-Express-list.png
 categories:
   - product-release
-useLink: 
-  - https://github.com/serverless-components/tencent-express
+useLink: https://github.com/serverless-components/tencent-express
 ---
 
 ### **产品功能**：

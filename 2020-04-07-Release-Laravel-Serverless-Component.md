@@ -6,8 +6,7 @@ date: 2019-12-24
 thumbnail: https://img.serverlesscloud.cn/202046/1586188839492-laravellist-.png
 categories:
   - product-release
-useLink: 
-  - https://github.com/serverless-components/tencent-laravel
+useLink: https://github.com/serverless-components/tencent-laravel
 ---
 
 ### **产品功能**：
