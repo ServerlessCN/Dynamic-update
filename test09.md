@@ -9,6 +9,7 @@ description: "针对当前 Serverless Component 版本的优化和大版本迭�
 keywords: serverless发展,Serverless 基本概念,Serverless生产力
 date: 2020-03-27
 thumbnail: https://img.serverlesscloud.cn/2020327/1585319177295-component-framework.png
+bannerlink: https://img.serverlesscloud.cn/202046/1586184634815-serverless-component%E5%8F%91%E5%B8%833banner.png
 categories:
   - banner-content
   - change-offline
