@@ -6,8 +6,8 @@ date: 2020-04-07
 thumbnail: https://img.serverlesscloud.cn/202047/1586257800823-SERVERLESS%20COMPONENT%20BANNER.png
 bannerlink: https://img.serverlesscloud.cn/202047/1586257800827-SERVERLESS%20COMPONENT%20BANNER.png
 categories:
-  -banner-content
-  -product-forecast 
+  - banner-content
+  - product-forecast 
 useLink: 
   - 
 ---

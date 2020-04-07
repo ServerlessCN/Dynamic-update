@@ -6,7 +6,6 @@ date: 2020-04-07
 bannerlink: https://img.serverlesscloud.cn/202046/1586182864953-banner-linkSQL.png
 thumbnail: https://img.serverlesscloud.cn/202042/1585870577858-Postgre%20SQL%20.png
 categories:
-  - banner-content
   - product-release
 useLink: https://cloud.tencent.com/document/product/1154/43004
   - 

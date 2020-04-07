@@ -8,7 +8,7 @@ date: 2020-04-07
 thumbnail: https://img.serverlesscloud.cn/202047/1586257805243-Layer%20Component.png
 bannerlink: 
 categories:
-  -product-forecast 
+  - product-forecast 
 useLink: 
   - 
 ---
