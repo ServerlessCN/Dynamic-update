@@ -8,7 +8,6 @@ thumbnail: https://img.serverlesscloud.cn/202042/1585870577858-Postgre%20SQL%20.
 categories:
   - product-release
 useLink: https://cloud.tencent.com/document/product/1154/43004
-  - 
 ---
 
 ### **产品介绍**：
