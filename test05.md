@@ -4,6 +4,7 @@ description: "通过在 serverless.yml 中支持流量切换的配置项，支�
 允许客户配置完成后，流量在两个版本之间进行按比例的分发，从而实现灰度发布的能力和回滚的能力。"
 date: 2020-01-09
 thumbnail: https://img.serverlesscloud.cn/2020327/1585315627854-3.png  
+bannerlink: https://img.serverlesscloud.cn/202046/1586184634815-serverless-component%E5%8F%91%E5%B8%833banner.png
 categories:
   - banner-content
   - product-forecast

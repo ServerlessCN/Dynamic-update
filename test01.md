@@ -5,6 +5,7 @@ description: "通过在 serverless.yml 中支持流量切换的配置项，支�
 keywords: serverless发展,Serverless 基本概念,Serverless生产力
 date: 2020-01-09
 thumbnail: https://img.serverlesscloud.cn/2020327/1585301778751-1577362754931-egg.png  
+bannerlink: https://img.serverlesscloud.cn/202046/1586184634815-serverless-component%E5%8F%91%E5%B8%833banner.png
 categories:
   - banner-content
   - demand-collect
