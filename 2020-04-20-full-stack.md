@@ -7,7 +7,6 @@ thumbnail: https://img.serverlesscloud.cn/2020420/1587392536220-Serverless%20ful
 categories:
   - product-forecast 
 useLink: 
-  - 
 ---
 
 ### 背景：

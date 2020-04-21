@@ -6,8 +6,7 @@ date: 2020-04-20
 thumbnail: https://img.serverlesscloud.cn/2020420/1587392495963-Serverless%20%E4%B8%80%E9%94%AE%E9%83%A8%E7%BD%B2.png
 categories:
   - product-forecast 
-useLink: 
-  - 
+useLink:
 ---
 
 ### 背景：
