@@ -3,8 +3,8 @@ title: Serverless Framework Dashborad 正式发布
 description: "Serverless Framework Dashboard 是可视化的运维界面，便于对业务的运行状态进行监控管理，同时支持一键部署 scf、express、website 资源模版"
 keywords: serverless framework,serverless,Dashborad
 date: 2020-05-12
-thumbnail: https://img.serverlesscloud.cn/2020512/1589277754282-SF-Dashboard%E5%89%AF%E6%9C%AC.jpg
-bannerlink: https://img.serverlesscloud.cn/2020512/1589287331373-banner%20SSR%20%E5%89%AF%E6%9C%AC.jpg
+thumbnail: https://img.serverlesscloud.cn/2020519/1589894419457-SSR.png
+bannerlink: https://img.serverlesscloud.cn/2020519/1589894471694-banner%20SSR.png
 categories:
   - banner-content
   - product-release
