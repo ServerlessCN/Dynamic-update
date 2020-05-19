@@ -3,7 +3,7 @@ title: SCF 支持灰度发布功能上线
 description: "为了支持用户的代码可以灰度生效，函数通过支持别名、版本，及别名在版本间可以进行路由配置，实现流量在多个版本间的灰度切换"
 keywords: serverless framework,serverless,灰度发布
 date: 2020-04-28
-thumbnail: https://img.serverlesscloud.cn/2020519/1589853578515-%E7%81%B0%E5%BA%A6%E5%8F%91%E5%B8%83.png
+thumbnail: https://img.serverlesscloud.cn/2020519/1589857918058-%E7%81%B0%E5%BA%A6%E5%8F%91%E5%B8%83.png
 categories:
   - product-release
 useLink: 
