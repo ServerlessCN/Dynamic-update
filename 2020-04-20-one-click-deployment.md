@@ -4,7 +4,8 @@ description: "Serverless Framework 扫码一键部署功能发布后,用户无�
 keywords: serverless framework,serverless,腾讯云Serverless
 date: 2020-04-21
 thumbnail: https://img.serverlesscloud.cn/2020519/1589855424133-%E4%B8%80%E4%BB%B6%E9%83%A8%E7%BD%B2.png
-  - product-release 
+categories:
+  - product-release
 useLink: 
 ---
 
