@@ -3,7 +3,7 @@ title: C0S 支持基于 SCF 的文件解压缩功能正式发布
 description: "文件解压缩功能是腾讯云对象存储 COS 基于云函数 SCF 为用户提供的数据处理解决方案"
 keywords: serverless framework,serverless,COS
 date: 2020-03-26
-thumbnail: https://img.serverlesscloud.cn/2020430/1588251293312-COS%20%E6%94%AF%E6%8C%81%E5%9F%BA%E4%BA%8Escf%E7%9A%84%E6%96%87%E4%BB%B6%E8%A7%A3%E5%8E%8B%E7%BC%A9%E5%8F%91%E5%B8%83.png
+thumbnail: https://img.serverlesscloud.cn/2020519/1589891453851-%E6%96%87%E4%BB%B6%E8%A7%A3%E5%8E%8B.png
 categories:
   - product-release
 useLink: 
