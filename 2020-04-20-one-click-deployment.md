@@ -7,7 +7,6 @@ thumbnail: https://img.serverlesscloud.cn/2020420/1587392495963-Serverless%20%E4
 categories:
   - product-release 
 useLink: 
-  - 
 ---
 
 ### 背景：
