@@ -1,10 +1,9 @@
 ---
-title: 腾讯云 Serverless Framework 扫码一键部署功能即将发布
+title: 腾讯云 Serverless Framework 扫码一键部署功能正式发布
 description: "Serverless Framework 扫码一键部署功能发布后,用户无需本地安装 CLI 即可快速体验一键式的全云端部署能力"
 keywords: serverless framework,serverless,腾讯云Serverless
 date: 2020-04-21
-thumbnail: https://img.serverlesscloud.cn/2020420/1587392495963-Serverless%20%E4%B8%80%E9%94%AE%E9%83%A8%E7%BD%B2.png
-categories:
+thumbnail: https://img.serverlesscloud.cn/2020519/1589855424133-%E4%B8%80%E4%BB%B6%E9%83%A8%E7%BD%B2.png
   - product-release 
 useLink: 
 ---
