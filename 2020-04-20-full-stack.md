@@ -3,7 +3,7 @@ title: 腾讯云 Serverless Full Stack 产品正式发布
 description: "Serverless Full Stack 产品,解决客户在开发过程中基础资源的配置、使用和可用性方面的问题"
 keywords: serverless framework,serverless,腾讯云Serverless
 date: 2020-04-21
-thumbnail: https://img.serverlesscloud.cn/2020420/1587392536220-Serverless%20full%20stack.png
+thumbnail: https://img.serverlesscloud.cn/2020519/1589855418572-full%20stack.png
 categories:
   - product-release 
 useLink: 
