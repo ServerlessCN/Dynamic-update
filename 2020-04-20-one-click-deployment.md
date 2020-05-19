@@ -20,3 +20,6 @@ useLink:
 ### 发布时间：
 2020-04-21
 
+### 产品体验链接：
+https://serverless.cloud.tencent.com/
+
