@@ -3,7 +3,8 @@ title: China Registry 注册中心发布
 description: "提供云端的组件注册中心，便于开发者可视化查询、复用、贡献和分享应用模板。"
 keywords: serverless framework,serverless,scf
 date: 2020-06-03
-thumbnail: “https://img.serverlesscloud.cn/2020611/1591882519489-china%20registry.png.jpg”
+thumbnail: https://img.serverlesscloud.cn/2020612/1591930340533-china.jpg
+bannerlink: https://img.serverlesscloud.cn/2020612/1591930218709-banener.jpg
 categories:
   - product-release
 useLink: 
