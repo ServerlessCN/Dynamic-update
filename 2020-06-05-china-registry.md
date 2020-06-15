@@ -11,7 +11,7 @@ useLink:
 ---
 
 ### 产品背景：
-提供云端的组件注册中心，便于开发者可视化查询、复用、贡献和分享 components 组件/应用模板。
+提供云端的组件注册中心，便于开发者可视化查询、复用、贡献和分享组件/应用模板。
 
 ### 产品功能：
 1. 支持展示 components 列表
@@ -22,4 +22,4 @@ useLink:
 2020-06-03
 
 ### 产品体验链接：
-http://registry.serverless.com/
+https://registry.serverless.com/
