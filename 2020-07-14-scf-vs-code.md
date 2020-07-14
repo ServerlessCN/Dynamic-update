@@ -1,5 +1,5 @@
 ---
-title: ICP 备案支持企业备案正式发布
+title: SCF VS Code 插件正式发布
 description: "Tencent Serverless Toolkit for VS Code 是腾讯云 Serverless 产品的 VS Code（Visual Studio Code）IDE 的插件。该插件可以让您更好地在本地进行 Serverless 项目开发和代码调试，并且轻松将项目部署到云端。VS Code 插件升级 2.0 版本，提供了基于 SF yaml 的配置文件格式支持、新增了云端调试能力。"
 keywords: serverless framework,serverless,VS Code,SF
 date: 2020-06-12
