@@ -13,7 +13,7 @@ useLink:
 
 Tencent Serverless Toolkit for VS Code 是腾讯云 Serverless 产品的 VS Code（Visual Studio Code）IDE 的插件。该插件可以让您更好地在本地进行 Serverless 项目开发和代码调试，并且轻松将项目部署到云端。VS Code 插件升级 2.0 版本，提供了基于 SF yaml 的配置文件格式支持、新增了云端调试能力。
 
-### 产品特性：
+### 产品功能：
 
 通过该 VS Code 插件，用户可以：
 
